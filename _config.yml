@@ -2,11 +2,11 @@
 
 # REQUIRED CHANGES
 # Edit next line, providing your own name.
-title: Molly Maluhia | Professional Portfolio
+title: Liam Toran | Portfolio
 # Edit next line, replacing 'techfolios' with your github username
-url: "https://techfolios.github.io"
+url: "https://liamkesatoran.github.io"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: "/template"
+baseurl: ""
 
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
@@ -24,4 +24,3 @@ rouge-theme: igorpro
 # YOU NORMALLY NEVER CHANGE THE FOLLOWING
 markdown: kramdown
 include: [_data]
-

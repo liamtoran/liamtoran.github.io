@@ -12,5 +12,5 @@ labels:
   - Python
   - Seaborn
   - Plotly
-summary: Short Kaggle kernel operating on a Glassdoor dataset showcasing how to make a bubble map using plotly.
+summary: Short Kaggle kernel demonstrating how to make a bubble map using worldly, applied for quantifying job postings per country in a glassdoor dataset.
 ---

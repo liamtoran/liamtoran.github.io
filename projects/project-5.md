@@ -11,5 +11,5 @@ labels:
   - Supervised Learning
   - Classification
   - XGBoost
-summary: Kaggle kernel showing how to make a classifier operating on a dataset of World of Warcraft gear and their in-game attributes.
+summary: Classification of World of Warcraft gear and their in-game attributes.
 ---

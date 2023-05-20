@@ -13,7 +13,7 @@ labels:
   - sklearn
   - Keras
   - XGBoost
-summary: Kaggle kernel showcasing different ways to do regression on a JPL dataset about asteroids.
+summary: Notebook benchmarking the different classifiers in the scikit-learn suite on a NASA dataset.
 ---
 
 

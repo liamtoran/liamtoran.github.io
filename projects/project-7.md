@@ -11,5 +11,5 @@ labels:
   - Recommendation Systems
   - Contextual
   - Feature selection
-summary: GitHub repository showcasing different Multi Armed Bandits and Contextual MAB algorithms & implementations on real recommendation data.
+summary: GitHub repository showcasing different Multi Armed Bandits and Contextual MAB algorithms with implementations on real recommendation data.
 ---

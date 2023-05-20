@@ -11,5 +11,5 @@ labels:
   - Feature encoding
   - Classification
   - Feature selection
-summary: Jupyter notebook showing how to select a few relevent features from a high dimensional dataset in order to do classification and analysis. Operating on a banking loan dataset.
+summary: Feature selection notebook for banking loan classification.
 ---

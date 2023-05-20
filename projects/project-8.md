@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/flippers.png
 title: flippers library
-projecturl: "https://github.com/liamkesatoran/flippers"
+projecturl: "https://github.com/liamtoran/flippers"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-01
 labels:

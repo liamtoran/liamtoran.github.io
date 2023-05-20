@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/bandits.png
 title: Multi Armed Bandits for Recommendation Systems
-projecturl: "https://github.com/liamkesatoran/bandits"
+projecturl: "https://github.com/liamtoran/bandits"
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-01
 labels:

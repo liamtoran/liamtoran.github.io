@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/asteroid.png
 title: Asteroids & regressions
-projecturl: "https://www.kaggle.com/liamkesatoran/asteroid-diameter-estimators-with-added-difficulty"
+projecturl: "https://www.kaggle.com/liamtoran/asteroid-diameter-estimators-with-added-difficulty"
 # All dates must be YYYY-MM-DD format!
 date: 2019-11-01
 labels:
@@ -21,7 +21,7 @@ summary: Notebook benchmarking the different classifiers in the scikit-learn sui
 
 This notebook showcases regression on a dataset on asteroid sizes.
 
-See the original on [kaggle](https://www.kaggle.com/liamkesatoran/asteroid-diameter-estimators-with-added-difficulty)
+See the original on [kaggle](https://www.kaggle.com/liamtoran/asteroid-diameter-estimators-with-added-difficulty)
 
 
 *  **Goal:** Getting the diameter of an asteroid from the other data given about that asteroid, in other words supervised regression with the target being log(diameter).   

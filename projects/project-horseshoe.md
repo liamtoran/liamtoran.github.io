@@ -5,7 +5,7 @@ image: images/horseshoe.png
 title: Uncovering the horseshoe effect
 projecturl: "https://www.semanticscholar.org/paper/Uncovering-the-Horseshoe-Effect-in-Microbial-Morton-Toran/b99fa36b375d3e7f3ec05785abc1d2229f3d34de"
 # All dates must be YYYY-MM-DD format!
-date: 2017-01-15
+date: 2020-01-15
 labels:
   - Research Article
   - Data analysis

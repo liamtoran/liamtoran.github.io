@@ -5,7 +5,7 @@ image: images/loan.png
 title: Feature selection for loan classification
 projecturl: "https://github.com/liamtoran/feature-selection-lending-club/blob/master/Feature%20Selection.ipynb"
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-19
+date: 2019-12-19
 labels:
   - Finance
   - Feature encoding

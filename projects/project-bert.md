@@ -12,5 +12,5 @@ labels:
   - Machine Learning
   - Weak Supervision
   - NLP
-summary: Showcasing how to fine tune a transformer (distilBERT) for classification without labels thanks to weak supervision and flippers. The classifier can seperate informative (scientific, historical, ...) from uninformative (music, video game, vlogs, ...) Youtube videos just from their title.
+summary: Fine tuning a distillbert transformer for classification without labels using weak supervision and flippers. The model seperates informative (scientific, historical, +) and uninformative (music, video game, vlogs, +) Youtube videos just from their title.
 ---

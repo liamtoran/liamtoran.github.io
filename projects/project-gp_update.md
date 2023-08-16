@@ -12,5 +12,5 @@ labels:
   - Machine Learning
   - Interpretability
   - Confidence Intervals
-summary: Gaussian Processes from scratch. Updating the gaussian process posterior using conditioning and noise in the observations. Sampling distributions and plotting confidence interval.
+summary: Gaussian Processes from scratch. Updating the gaussian process posterior using conditioning and noise in the observations. Sampling distributions and plotting confidence intervals.
 ---

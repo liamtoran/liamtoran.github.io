@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/tce.png
+image: images/rtfm.png
 title: Scalable and Weakly Supervised Bank Transaction Classification
 projecturl: "https://arxiv.org/abs/2305.18430"
 # All dates must be YYYY-MM-DD format!

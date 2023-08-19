@@ -9,8 +9,8 @@ date: 2023-05-01
 labels:
   - Gaussian Processes
   - Bayesian Statistics
-  - Machine Learning
-  - Interpretability
+  - Hyperparameter Optimization
+  - GPyTorch
   - Confidence Intervals
 summary: Hyperparameter optimization for a Gaussian Process Regression on Mauna Loa Atmospheric C02 level. GPU acclerated implementation using GPyTorch.
 ---
